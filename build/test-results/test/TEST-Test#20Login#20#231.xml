@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Login #1" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-13T10:40:54" hostname="DESKTOP-RDQV5OE" time="0.901">
+  <properties/>
+  <testcase name="User input &quot;standard_user&quot; and &quot;secret_sauce&quot;" classname="Test Login #1" time="0.145"/>
+  <testcase name="User click button login" classname="Test Login #1" time="0.089"/>
+  <testcase name="User success login" classname="Test Login #1" time="0.057"/>
+  <testcase name="classMethod" classname="Test Login #1" time="2.329"/>
+  <system-out><![CDATA[
+@Web @Login
+Scenario Outline: Test Login                          ?[90m# src/test/resources/features/login.feature:11?[0m
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 21724
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 13, 2022 5:40:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

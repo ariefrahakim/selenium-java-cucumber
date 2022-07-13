@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add to cart" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-07-13T10:40:51" hostname="DESKTOP-RDQV5OE" time="1.337">
+  <properties/>
+  <testcase name="User input &quot;standard_user&quot; and &quot;secret_sauce&quot;" classname="Add to cart" time="0.229"/>
+  <testcase name="User click button login" classname="Add to cart" time="0.104"/>
+  <testcase name="User success login" classname="Add to cart" time="0.115"/>
+  <testcase name="user click add to cart" classname="Add to cart" time="0.14"/>
+  <testcase name="shopping cart badge added" classname="Add to cart" time="0.058"/>
+  <testcase name="classMethod" classname="Add to cart" time="3.705"/>
+  <system-out><![CDATA[
+@Web @AddToCart
+Scenario: Add to cart                                 ?[90m# src/test/resources/features/addToCart.feature:5?[0m
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 2025
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 13, 2022 5:40:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

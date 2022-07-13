@@ -1,0 +1,8 @@
+demo/webdriver/WebdriverInstance.java
+ demo.webdriver.WebdriverInstance
+demo/pages/base/page_object/AddToCart.java
+ demo.pages.base.page_object.AddToCart
+demo/pages/base/BasePageObject.java
+ demo.pages.base.BasePageObject
+demo/pages/base/page_object/LoginPage.java
+ demo.pages.base.page_object.LoginPage
